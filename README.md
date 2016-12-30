@@ -12,6 +12,6 @@ This application is used for uploading & showing images and videos with user aut
 - `npm start` to start server
 
 ## Note ##
-> you may need to update nodejs such as `nvm install 6.9.2 --reinstall-packages-from=6.4.0`
-> and may be `npm rebuild node-sass` if there's error
-> if can't start mongo, run `mongod --repair --dbpath data` (know more at https://c9.io/powerqi/socialnet)
+- you may need to update nodejs such as `nvm install 6.9.2 --reinstall-packages-from=6.4.0`
+- and may be `npm rebuild node-sass` if there's error
+- if can't start mongo, run `mongod --repair --dbpath data` (know more at https://c9.io/powerqi/socialnet)
